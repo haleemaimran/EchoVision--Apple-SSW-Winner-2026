@@ -444,7 +444,7 @@ Contributions are welcome! Here's how to help:
 **Developer**: Haleema Imran  
 **Email**: hallieimran@gmail.com  
 **LinkedIn**: [linkedin.com/in/haleemaimran](https://linkedin.com/in/haleemaimran)  
-**GitHub**: [@yourusername](https://github.com/haleemaimran)
+**GitHub**: [@haleemaimran](https://github.com/haleemaimran)
 
 **Issues & Feedback**: [GitHub Issues](https://github.com/yourusername/EchoVision/issues)
 
