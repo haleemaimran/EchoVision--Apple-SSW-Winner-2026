@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSCameraUsageDescription</key>
+    <string>EchoVision uses the camera to detect objects, hazards, and help you navigate your surroundings safely.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>EchoVision uses audio for spatial feedback.</string>
+    <key>CFBundleDisplayName</key>
+    <string>EchoVision</string>
+    <key>UIRequiresFullScreen</key>
+    <true/>
+</dict>
+</plist>
